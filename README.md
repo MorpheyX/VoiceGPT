@@ -16,6 +16,10 @@ Here is all features:
 
 
 
+https://github.com/MorpheyX/VoiceGPT/assets/139115904/8b6dabcd-e35b-4224-86e2-d13c7bb1dd5c
+
+
+
 ### Installing
 1. Get your OpenAI API key
 2. Get your Telegram bot token from @Botfather.
