@@ -1,6 +1,7 @@
 # VoiceGPT
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
 VoiceGPT  is a telegram bot based on OpenAI API, that can answer with voice message to voice message, chat gistory is supported
 Here is all features:
  - GPT3.5-turbo - fast and effective, chat completion.
