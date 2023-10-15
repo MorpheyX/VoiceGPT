@@ -8,7 +8,7 @@ async def stats(message: types.Message):
     if message.from_user.id == admin:
         sql.fetchall()
         quantity = sql.fetchall.quantity
-        await message.answer(f'Количество пользователей в боте: {quantity}')
+        await message.answer(f'Users quantity: {quantity}')
 
 
 @dp.message_handler(commands=['mailing list'])
